@@ -1,0 +1,32 @@
+Postfix is a cross between an American and English India Pale Ale
+It's a partial mash (as of 0.4) fermented in two stages with 
+Cascade, Fuggles and Centennial hops and an ABV of 6.7%
+The beer is carbonated in the bottles with table sugar to 2.8 vols 
+
+You need BeerSmith 2 to use this recipe file.
+Get it here: http://www.beersmith.com/
+
+Changelog
+
+0.4 (partial mash)
+* Removed MaltoDextrine
+* Added 0.5KG Crushed Cara Pale Malt (7.0 EBC)
+* Added 0.5KG Crushed Crystal 100 Malt (100 EBC)
+* Changed primary fining agent from Irish Moss to Protafloc
+* ABV 6.4 -> 6.6  IBU 47.8 -> 48.7
+
+0.3
+* Changed from liquid extract to Muntons dry extract
+* Changed yeast from Kolch to Wyeast American Ale II
+* Added 120g Malto-Dextrine for better body
+* Changed bittering hops from Northern Brewer to Centennial
+* Changed dry-hop from Amarillo to Cascade
+* ABV 6.6->6.4  IBU 54.4->48.7
+
+0.2 
+* Changed equipment profile from 8L pot to 25L pot
+* Brought down amount of hops from 160g to 100g due to larger pot
+  giving more efficient hop extraction. IBU changed from 53 to 54,4
+
+0.1 
+* First Try
