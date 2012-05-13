@@ -6,12 +6,12 @@
 <Size>1</Size>
 <_XName>Selections</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2012-04-15</_MOD_>
-<F_R_NAME>Postfix 0.3</F_R_NAME>
+<Data><Recipe><_MOD_>2012-05-13</_MOD_>
+<F_R_NAME>Postfix 0.4</F_R_NAME>
 <F_R_BREWER>MRS</F_R_BREWER>
 <F_R_ASST_BREWER>Designed by Nick Boardman</F_R_ASST_BREWER>
 <F_R_DATE>2011-05-08</F_R_DATE>
-<F_R_INV_DATE>1990-04-15</F_R_INV_DATE>
+<F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_VOLUME_MEASURED>778.3943166</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>720.6400000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
@@ -199,10 +199,64 @@ Mouthfeel: Smooth, medium-light to medium-bodied mouthfeel without hop-derived a
 <Type>7405</Type>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>11</Size>
+<Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2012-02-19</_MOD_>
+<Data><Grain><_MOD_>2012-05-13</_MOD_>
+<F_G_NAME>Viking Cara Pale</F_G_NAME>
+<F_G_ORIGIN>Mordor</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>17.6369840</F_G_AMOUNT>
+<F_G_COLOR>3.5532995</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>11.9047619</F_G_PERCENT>
+<F_ORDER>1</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>13.2000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Adds body, color and improves head retention.
+Also called &quot;Crystal&quot; malt.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.8363103</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2012-05-13</_MOD_>
+<F_G_NAME>Viking Crystal 100</F_G_NAME>
+<F_G_ORIGIN>Mordor</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>17.6369840</F_G_AMOUNT>
+<F_G_COLOR>50.7614213</F_G_COLOR>
+<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>11.9047619</F_G_PERCENT>
+<F_ORDER>2</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>13.2000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Adds body, color and improves head retention.
+Also called &quot;Crystal&quot; malt.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.8363103</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2012-02-19</_MOD_>
 <F_G_NAME>Extra Light Dry Extract</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -213,8 +267,8 @@ Mouthfeel: Smooth, medium-light to medium-bodied mouthfeel without hop-derived a
 <F_G_COLOR>2.9949239</F_G_COLOR>
 <F_G_YIELD>95.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>62.5000000</F_G_PERCENT>
-<F_ORDER>1</F_ORDER>
+<F_G_PERCENT>47.6190476</F_G_PERCENT>
+<F_ORDER>3</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
@@ -240,8 +294,8 @@ Use as base or to increase gravity of any ale or lager.</F_G_NOTES>
 <F_G_COLOR>12.4873096</F_G_COLOR>
 <F_G_YIELD>95.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>31.2500000</F_G_PERCENT>
-<F_ORDER>2</F_ORDER>
+<F_G_PERCENT>23.8095238</F_G_PERCENT>
+<F_ORDER>4</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
@@ -268,8 +322,8 @@ Examples: Ales, Marzens, Amber Ale, India Pale Ale</F_G_NOTES>
 <F_G_COLOR>1.0000000</F_G_COLOR>
 <F_G_YIELD>100.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>6.2500000</F_G_PERCENT>
-<F_ORDER>3</F_ORDER>
+<F_G_PERCENT>4.7619048</F_G_PERCENT>
+<F_ORDER>5</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
@@ -283,7 +337,7 @@ Examples: Ales, Marzens, Amber Ale, India Pale Ale</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2012-03-13</_MOD_>
+<Hops><_MOD_>2012-05-13</_MOD_>
 <F_H_NAME>Centennial 11%</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -300,13 +354,13 @@ Examples: Ales, Marzens, Amber Ale, India Pale Ale</F_G_NOTES>
 Aroma: Floral, citrus aroma, spicy, clean bittering flavor
 Substitutes: Galena, Eroica, Nugget, Bullion
 Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
-<F_H_IBU_CONTRIB>25.5119127</F_H_IBU_CONTRIB>
-<F_ORDER>4</F_ORDER>
+<F_H_IBU_CONTRIB>25.0355804</F_H_IBU_CONTRIB>
+<F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0007382</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2012-01-21</_MOD_>
+<Hops><_MOD_>2012-03-13</_MOD_>
 <F_H_NAME>Fuggles</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -323,8 +377,8 @@ Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
 Aroma: Mild, soft, grassy, floral aroma
 Substitute: East Kent Goldings, Williamette
 Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>10.0260702</F_H_IBU_CONTRIB>
-<F_ORDER>5</F_ORDER>
+<F_H_IBU_CONTRIB>9.8388736</F_H_IBU_CONTRIB>
+<F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
@@ -346,29 +400,29 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 Aroma: Mild, soft, grassy, floral aroma
 Substitute: East Kent Goldings, Williamette
 Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>8.2518595</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
+<F_H_IBU_CONTRIB>8.0977892</F_H_IBU_CONTRIB>
+<F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0007382</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2012-02-19</_MOD_>
-<F_M_NAME>Irish Moss</F_M_NAME>
+<Misc><_MOD_>2012-03-13</_MOD_>
+<F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
-<F_M_TEMP_VOL>778.3943166</F_M_TEMP_VOL>
-<F_M_UNITS>6</F_M_UNITS>
-<F_M_AMOUNT>0.3000000</F_M_AMOUNT>
+<F_M_TEMP_VOL>640.0957608</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0001496</F_M_AMOUNT>
 <F_M_VOLUME>640.0000000</F_M_VOLUME>
 <F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_PRICE>0.1000000</F_M_PRICE>
 <F_M_USE>0</F_M_USE>
 <F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Fining agent that aids in the post-boil protein break.  Reduces protein chill haze and improves beer clarity.</F_M_NOTES>
+<F_M_TIME>15.0000000</F_M_TIME>
+<F_M_NOTES>Aids in clearing yeast and chill haze.  Easy to use tablet form.</F_M_NOTES>
 <F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>7</F_ORDER>
+<F_ORDER>9</F_ORDER>
 </Misc>
 <Hops><_MOD_>2012-03-13</_MOD_>
 <F_H_NAME>Fuggles</F_H_NAME>
@@ -387,31 +441,13 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 Aroma: Mild, soft, grassy, floral aroma
 Substitute: East Kent Goldings, Williamette
 Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.9402865</F_H_IBU_CONTRIB>
-<F_ORDER>8</F_ORDER>
+<F_H_IBU_CONTRIB>4.8480465</F_H_IBU_CONTRIB>
+<F_ORDER>10</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0007382</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2012-03-13</_MOD_>
-<F_M_NAME>Malto-Dextrine</F_M_NAME>
-<F_M_TYPE>4</F_M_TYPE>
-<F_M_USE_FOR>Adds Body</F_M_USE_FOR>
-<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
-<F_M_UNITS>1</F_M_UNITS>
-<F_M_AMOUNT>120.0000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0957608</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>5.0000000</F_M_TIME>
-<F_M_NOTES>Malt bases sugar that is less than 5% fermentable.  Increases the body and mouth-feel of the beer and adds slight sweetness.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>9</F_ORDER>
-</Misc>
-<Hops><_MOD_>2012-03-13</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Cascade 6%</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -430,7 +466,7 @@ Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
-<F_ORDER>10</F_ORDER>
+<F_ORDER>11</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0007382</F_H_PRICE>
@@ -446,7 +482,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
 <F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>79.0000000</F_Y_PRICE>
-<F_ORDER>11</F_ORDER>
+<F_ORDER>12</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
 <F_Y_BREW_DATE>2011-05-08</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2011-02-27</F_Y_PKG_DATE>
